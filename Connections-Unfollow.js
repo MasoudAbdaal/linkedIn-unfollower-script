@@ -9,6 +9,9 @@
     })
     return items
   }
+
+
+
   async function unfollowAll() {
     const buttons = getAllButtons();
 
@@ -23,6 +26,8 @@
       await new Promise((resolve) => setTimeout(resolve, 1000));
     }
   }
+
+
   async function run() {
     await unfollowAll();
     await new Promise((resolve) => setTimeout(resolve, 1000));
