@@ -5,13 +5,13 @@
 ## Usages
 
 ### Remove All Connections:
-  1.Copy file content of Connections-Remove.js 
+  1. Copy file content of Connections-Remove.js 
   2. Go to https://www.linkedin.com/mynetwork/invite-connect/connections/
   4. Right click on page, select Inspect
   5. In window which comes up, select console and paste code there
 
 ### Unfollow All Connections:
-  1.Copy file content of Connections-Unfollow.js 
+  1. Copy file content of Connections-Unfollow.js 
   2. Go to your profile
   3. In "Interests", select show more company (or something like this)
   4. Right click on page, select Inspect
